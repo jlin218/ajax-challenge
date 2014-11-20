@@ -11,3 +11,32 @@ body {
     margin-right: 10px;
 }
 
+.form-group{
+	font-size: 20px;
+}
+#fillOutSection{
+	background-color: #E5CCFF;
+}
+
+#noComment{
+	display: none;
+	font-size: 20px;
+	font-style: bold;
+}
+
+.btn:hover{
+	color:brown;
+}
+
+#commentSection{
+	background-color: #FFFFCC;
+}
+.details {
+	background-color: #FFFFCC;
+	font-size: 25px;
+}
+
+#thumbs{
+	width: 60px;
+	height: 60px;
+}
